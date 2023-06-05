@@ -1,4 +1,4 @@
-### Hi, i'm Richard 😃
+### Hi, i'm Hadiel Sicsú 😃
 ## I'm a Full Stack Developer!
 
 <div align = "center" style="display: inline_block"><br>
